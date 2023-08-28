@@ -9,4 +9,4 @@ In this scenario, The Pharmacy company wants me to work on an expense report for
 
 In conclusion, I created the tables with the raw data and then combined them to get the results mentioned previously. Then created visuals using tableau.
 
-In this project you can find the SQL code, the CSV tables that were exported from SQL, and the visual dashboard png files.
+In this project you can find the SQL code(query(21).sql), the CSV tables that were exported from SQL, and the visual dashboard png files.
