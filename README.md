@@ -9,7 +9,7 @@ In this scenario, The Pharmacy company wants me to work on an expense report for
 
 In conclusion, I created the tables with the raw data and then combined them to get the results mentioned previously. Then created visuals using tableau. The results showed the following:
 The top 3 expense categories were Salary, Supplies and Entertainment. 
-The highest expense was in the month of ____ and the average monthly expense is _____
+The highest expense was in the month of April due to the yearly lease, medical supplies and salary. The average monthly expense is 41,203.
 The highest expense source company was PillCorp which is the primary supplier 
 The salary expenses by career department was close to even but the highest expense was the Production department.
 
